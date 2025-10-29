@@ -58,8 +58,3 @@ function EditBooking({booking}) {
 }
 
 export default EditBooking
-
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/ameenv/test-booking-system.git
-// git push -u origin main
